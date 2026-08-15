@@ -1,0 +1,1 @@
+A beginner-friendly Expense Tracker REST API built with Java, Spring Boot, Spring Data JPA, and H2 Database. Supports CRUD operations, expense categorization, validation, and expense summaries, with APIs tested using Postman.
